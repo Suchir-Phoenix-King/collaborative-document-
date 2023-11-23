@@ -1,0 +1,10 @@
+body {
+	font-family: 'Tangerine', serif;
+	background-image: linear-gradient(#7AFACE ,  #86FAD2, #B9FDE5, #D0FBEC, white);
+}
+
+.option {
+	text-transform: uppercase;
+	background: aquamarine;
+	font-weight: bold;
+}
